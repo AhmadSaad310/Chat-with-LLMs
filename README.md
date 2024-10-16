@@ -1,3 +1,3 @@
-# Makeing Chat With Ollama 'LLMs'
+# Makeing Chat Useing LlamaIndex With Ollama 'LLMs'
 
-![](https://socialify.git.ci/AIDevBytes/Streamlit-Ollama-Chatbot/image?description=1&font=Inter&language=1&name=1&stargazers=1&theme=Auto)
+![](https://th.bing.com/th/id/OIP.r4iUW8lHrZYcr7D7wCUQ1gHaEK?rs=1&pid=ImgDetMain)
